@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "name": "n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx TypeScript.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc TypeScript.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  }
+}
