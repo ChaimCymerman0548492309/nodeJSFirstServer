@@ -107,3 +107,11 @@ type Reader = Person & Reader1
 // }
 
 // console.log(Reader)
+
+
+// git init
+// git add .
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/ChaimCymerman0548492309/nodeJSFirstServer.git
+// git push -u origin main
